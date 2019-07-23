@@ -8,7 +8,7 @@ import java.util.Scanner;
 import Entidades.entities.*;
 import Entidades.exceptions.*;
 
-public class Programa {
+public class Program {
 
 	public static void main(String[] args) {
 
